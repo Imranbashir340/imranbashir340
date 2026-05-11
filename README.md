@@ -2,11 +2,11 @@
 
 # ⚡ Imran Bashir
 
-### 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠 Automation Builder
+### 🚀 DevOps Engineer | ☁️ Multi-Cloud Architect | 🛠 CI/CD & Automation Specialist
 
 <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=devops" />
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/MultiCloud-Azure%20%7C%20AWS%20%7C%20GCP-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
 
 </div>
@@ -15,71 +15,95 @@
 
 ## 👨‍💻 About Me
 
-💡 DevOps Engineer focused on **Cloud Infrastructure, CI/CD automation & scalable systems**
+I am a **DevOps Engineer & Cloud Specialist** focused on designing and managing **multi-cloud, scalable, and automated infrastructure systems**.
 
-- 🚀 Building production-ready deployment pipelines  
-- ☁️ Working with AWS Cloud (EC2, S3, IAM, VPC, EKS basics)  
-- 🐳 Containerizing applications with Docker  
-- ⚙️ Automating deployments using CI/CD pipelines  
-- 🧠 Strong backend background (PHP / Laravel / APIs)  
+- 🚀 8+ years experience in software engineering  
+- ☁️ Multi-cloud expertise (AWS, Azure, Google Cloud)  
+- 🐳 Strong containerization & orchestration skills  
+- ⚙️ CI/CD pipeline automation & deployment engineering  
+- 🧠 Backend & API development experience (PHP / Laravel / REST APIs)  
 
 ---
 
-## ☁️ DevOps Skill Stack
+## ☁️ Multi-Cloud Platform Expertise
 
-### 🚀 Cloud & Infrastructure
-- AWS (EC2, S3, IAM, VPC, EKS Basics)
-- Linux Server Administration (Ubuntu)
+### ☁️ Cloud Providers
+- AWS (EC2, S3, IAM, VPC, RDS)
+- Microsoft Azure (VMs, App Services, Storage)
+- Google Cloud Platform (Compute Engine, Cloud Storage)
+
+---
+
+## 🧰 DevOps Tools & Technologies
 
 ### 🐳 Containers & Orchestration
 - Docker (Images, Containers, Volumes)
 - Docker Compose
-- Kubernetes (Pods, Services, Deployments)
+- Kubernetes (Pods, Services, Deployments, Scaling)
 
 ### ⚙️ CI/CD & Automation
 - GitHub Actions
-- Pipeline Automation
-- Continuous Deployment (CD)
+- Jenkins (basic pipelines)
+- Automated deployment workflows
+- Release & version management
 
-### 💻 Backend Systems
-- PHP / Laravel
-- REST APIs
-- SOAP APIs
+### 💻 Infrastructure & OS
+- Linux (Ubuntu, CentOS)
+- Shell Scripting (Bash Automation)
+- Networking basics (DNS, Load Balancing)
 
-### 🗄️ Databases
-- MySQL
-- Oracle 11g
-- PostgreSQL
-
----
-
-## 🚀 Featured DevOps Projects
-
-### 🔥 CI/CD Pipeline (Laravel → AWS)
-🟢 Dockerized Laravel app  
-🟢 Automated deployment using GitHub Actions  
-🟢 Deployed on AWS EC2  
-🟢 Zero manual deployment process  
-
-**Tech:** Docker • Laravel • AWS • GitHub Actions
+### 📊 Monitoring & Observability
+- Cloud Monitoring (AWS CloudWatch / Azure Monitor basics)
+- Logs & system debugging
+- Performance tracking concepts
 
 ---
 
-### 🔥 Kubernetes Deployment System
-🟢 Multi-container deployment  
-🟢 Load balancing using Kubernetes Services  
-🟢 Scalable backend architecture  
+## 💻 Programming & Scripting Languages
+
+- PHP (Core PHP, Laravel)
+- Bash Scripting (Automation)
+- JavaScript (API integration)
+- SQL (MySQL / Oracle / PostgreSQL)
+- YAML (Kubernetes & CI/CD pipelines)
+
+---
+
+## 📦 Project Experience Overview
+
+### 🚀 DevOps & Cloud Projects: **12+**
+### 🧠 Backend/API Systems: **15+**
+### 🐳 Containerized Applications: **10+**
+### ☁️ Multi-Cloud Deployments: **6+**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 1. Multi-Cloud CI/CD Pipeline System
+- Automated deployment pipeline across AWS & Azure
+- Dockerized application deployment
+- GitHub Actions for CI/CD automation
+
+**Tech:** Docker • GitHub Actions • AWS • Azure
+
+---
+
+### 🔥 2. Kubernetes Cluster Deployment (Cloud Independent)
+- Multi-container application deployed on Kubernetes
+- Scalable architecture with load balancing
+- Cloud-agnostic deployment strategy
 
 **Tech:** Kubernetes • Docker • Linux
 
 ---
 
-### 🔥 Cloud API System
-🟢 REST API hosted on AWS  
-🟢 Secure authentication system  
-🟢 Scalable backend design  
+### 🔥 3. Cloud-Native API System
+- REST API backend deployed across cloud environments
+- Secure authentication & role-based access control
+- Scalable microservice-ready structure
 
-**Tech:** PHP • AWS • MySQL
+**Tech:** PHP • MySQL • Multi-Cloud Infrastructure
 
 ---
 
@@ -95,34 +119,28 @@
 
 ---
 
-## 📈 DevOps Focus Areas
+## 🌍 DevOps Focus Areas
 
-🟡 Infrastructure as Code (IaC)  
-🟡 CI/CD Pipeline Design  
-🟡 Cloud Architecture (AWS)  
-🟡 Container Orchestration (Kubernetes)  
-🟡 System Monitoring & Optimization  
-🟡 Automation & Deployment Engineering  
+🟢 Multi-Cloud Architecture (AWS / Azure / GCP)  
+🟢 CI/CD Pipeline Automation  
+🟢 Kubernetes Production Deployment  
+🟢 Infrastructure as Code Concepts  
+🟢 Containerization & Microservices  
+🟢 Scalable Backend Systems  
+
+---
+
+## 🎯 Career Objective
+
+- Multi-Cloud DevOps Engineer  
+- Kubernetes & Container Infrastructure Specialist  
+- CI/CD Automation Architect  
+- Scalable System Designer  
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🎯 Current Goal
-
-🔥 Building enterprise-level DevOps skills in:
-
-- AWS Cloud Architecture  
-- Kubernetes Production Deployments  
-- CI/CD Automation Pipelines  
-- Scalable Backend Systems  
+- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE  
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your.email@example.com  
