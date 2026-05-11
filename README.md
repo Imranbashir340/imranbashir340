@@ -1,111 +1,128 @@
-# Hi, I'm Imran Bashir 👋
+<div align="center">
 
-🚀 DevOps Engineer | Cloud Enthusiast | Backend Systems Developer  
-☁️ AWS • Docker • CI/CD • Kubernetes • Linux Automation  
-⚙️ 8+ Years in Software Development (PHP / Laravel / System Architecture)
+# ⚡ Imran Bashir
 
----
+### 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠 Automation Builder
 
-## 🧠 About Me
+<img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=devops" />
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
 
-I am a software engineer focused on **DevOps, Cloud Infrastructure, and Automation**.  
-I specialize in building, deploying, and maintaining scalable backend systems using modern DevOps practices.
-
-- 🔭 Currently working on: Cloud-native DevOps pipelines & Kubernetes deployments  
-- 🌱 Learning: Advanced AWS (EKS, Terraform, Monitoring & Observability)  
-- ⚡ Passionate about: Automation, CI/CD pipelines, and scalable system design  
-- 🎯 Goal: Become a production-level DevOps / Cloud Engineer in enterprise environments  
+</div>
 
 ---
 
-## ☁️ DevOps & Cloud Stack
+## 👨‍💻 About Me
 
-### 🚀 Cloud Platforms
-- AWS (EC2, S3, IAM, VPC, EKS basics)
-- Linux Server Management (Ubuntu, CentOS)
+💡 DevOps Engineer focused on **Cloud Infrastructure, CI/CD automation & scalable systems**
 
-### 🐳 Containerization & Orchestration
-- Docker
+- 🚀 Building production-ready deployment pipelines  
+- ☁️ Working with AWS Cloud (EC2, S3, IAM, VPC, EKS basics)  
+- 🐳 Containerizing applications with Docker  
+- ⚙️ Automating deployments using CI/CD pipelines  
+- 🧠 Strong backend background (PHP / Laravel / APIs)  
+
+---
+
+## ☁️ DevOps Skill Stack
+
+### 🚀 Cloud & Infrastructure
+- AWS (EC2, S3, IAM, VPC, EKS Basics)
+- Linux Server Administration (Ubuntu)
+
+### 🐳 Containers & Orchestration
+- Docker (Images, Containers, Volumes)
 - Docker Compose
-- Kubernetes (Deployments, Services, Pods)
+- Kubernetes (Pods, Services, Deployments)
 
 ### ⚙️ CI/CD & Automation
 - GitHub Actions
-- CI/CD Pipeline Design
-- Automated Deployment Strategies
+- Pipeline Automation
+- Continuous Deployment (CD)
 
-### 💻 Backend & APIs
-- PHP (Core PHP, Laravel)
-- RESTful APIs
+### 💻 Backend Systems
+- PHP / Laravel
+- REST APIs
 - SOAP APIs
 
 ### 🗄️ Databases
 - MySQL
 - Oracle 11g
 - PostgreSQL
-- MongoDB
 
 ---
 
 ## 🚀 Featured DevOps Projects
 
-### 🔹 1. CI/CD Pipeline for Laravel App (AWS Deployment)
-- Dockerized Laravel application
-- Automated deployment using GitHub Actions
-- Deployed on AWS EC2 instance
-- Zero-downtime deployment workflow
+### 🔥 CI/CD Pipeline (Laravel → AWS)
+🟢 Dockerized Laravel app  
+🟢 Automated deployment using GitHub Actions  
+🟢 Deployed on AWS EC2  
+🟢 Zero manual deployment process  
 
-**Tech Stack:** Docker • Laravel • AWS EC2 • GitHub Actions
-
----
-
-### 🔹 2. Kubernetes Multi-Service Deployment
-- Deployed multi-container application on Kubernetes cluster
-- Managed services, deployments, and load balancing
-- Implemented scaling strategy for backend services
-
-**Tech Stack:** Kubernetes • Docker • Linux
+**Tech:** Docker • Laravel • AWS • GitHub Actions
 
 ---
 
-### 🔹 3. Cloud-Based API System
-- REST API system deployed on cloud infrastructure
-- Integrated authentication and secure endpoints
-- Structured for scalability and performance
+### 🔥 Kubernetes Deployment System
+🟢 Multi-container deployment  
+🟢 Load balancing using Kubernetes Services  
+🟢 Scalable backend architecture  
 
-**Tech Stack:** PHP • AWS • MySQL
+**Tech:** Kubernetes • Docker • Linux
+
+---
+
+### 🔥 Cloud API System
+🟢 REST API hosted on AWS  
+🟢 Secure authentication system  
+🟢 Scalable backend design  
+
+**Tech:** PHP • AWS • MySQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 📈 DevOps Focus Areas
 
-- Infrastructure as Code (IaC)
-- CI/CD Automation Pipelines
-- Cloud Architecture Design
-- Container Orchestration (Kubernetes)
-- System Monitoring & Optimization
+🟡 Infrastructure as Code (IaC)  
+🟡 CI/CD Pipeline Design  
+🟡 Cloud Architecture (AWS)  
+🟡 Container Orchestration (Kubernetes)  
+🟡 System Monitoring & Optimization  
+🟡 Automation & Deployment Engineering  
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
-- GitHub: https://github.com/YOUR_USERNAME
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+</div>
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Current Goal
 
-Building **production-ready DevOps projects** with:
-- Scalable architecture
-- Automated CI/CD pipelines
-- Cloud-native deployments (AWS)
+🔥 Building enterprise-level DevOps skills in:
+
+- AWS Cloud Architecture  
+- Kubernetes Production Deployments  
+- CI/CD Automation Pipelines  
+- Scalable Backend Systems  
